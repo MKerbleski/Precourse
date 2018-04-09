@@ -1,0 +1,15 @@
+.divClass {color: maroon}
+img {width: 400px}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color:lightslategrey;
+    padding: 50px;
+    border: blue 2px dashed;
+
+}
+#spanId{
+    margin: 50px;
+
+
+}
